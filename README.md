@@ -1,0 +1,1 @@
+Este laboratorio es un conjunto de ejercicios que puedes consultar y tomar como referencia para mejorar tu aprendizaje.
